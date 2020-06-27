@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "823574168315",
+    "firebase_url": "https://redbus-clone.firebaseio.com",
+    "project_id": "redbus-clone",
+    "storage_bucket": "redbus-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823574168315:android:5c556c07295a363d9ee65e",
+        "android_client_info": {
+          "package_name": "com.example.redbusclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823574168315-1pk7ojl3a27i4r7dvhffmpebn87b8enf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABzgjAjlKTljakJwKONBOlcEN5Ta6tMi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823574168315-1pk7ojl3a27i4r7dvhffmpebn87b8enf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
